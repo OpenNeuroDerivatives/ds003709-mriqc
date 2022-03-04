@@ -3,10 +3,6 @@
 	url = /scratch1/03201/jbwexler/openneuro_derivatives/containers
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
 	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/containers
-[submodule "tacc-openneuro"]
-	path = tacc-openneuro
-	url = https://github.com/poldracklab/tacc-openneuro.git
-	datalad-url = https://github.com/poldracklab/tacc-openneuro.git
 [submodule "sourcedata/raw"]
 	path = sourcedata/raw
 	url = /scratch1/03201/jbwexler/openneuro_derivatives/raw/ds003709
@@ -17,3 +13,6 @@
 	url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow
 	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
 	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow
+[submodule "code/tacc-openneuro"]
+	path = code/tacc-openneuro
+	url = https://github.com/poldracklab/tacc-openneuro.git
